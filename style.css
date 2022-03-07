@@ -1,0 +1,90 @@
+h1.titulo{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+}
+
+span{
+    display: block;
+}
+
+span.bya{
+    display: block;
+    background-color: black;
+}
+
+span.coda{
+    font-family: 'Coda Caption', sans-serif;
+}
+
+.topleft {
+    position: absolute;
+    top: 50;
+    left: 16px;
+    font-size: 18px;
+    background-color: teal;
+    color: white;
+    line-height: 1.5;
+  }
+
+  .topright {
+    position: absolute;
+    top: 50;
+    right: 21%;
+    font-size: 15px;
+    color: yellow;
+    line-height: 2;
+  }
+
+  span.bya2{
+    display: block;
+    background-color: black;
+}
+  
+span.bya3{
+    display: block;
+    background-color: black;
+}
+
+hr.topright{
+    width: 70%;
+    left: 16%;
+}
+
+hr.class-1 { 
+    border-top: 15px solid blue; 
+    width: 90%;
+    left: -5%;
+}
+
+.center {
+    position: absolute;
+    top: 33%;
+    width: 100%;
+    text-align:justify;
+    font-size: 20px;
+  }
+
+  hr.center{
+      width: 50%;
+      top: 46%;
+      margin-left: 25%;
+}
+
+.centerb {
+    position: absolute;
+    top: 48%;
+    width: 100%;
+    text-align:justify;
+    font-size: 20px;
+  }
+  hr.class-2 { 
+    border-top: 15px solid blue; 
+    width: 90%;
+
+}
+
+span.magic{
+    font-family: 'Yusei Magic', sans-serif;
+}
